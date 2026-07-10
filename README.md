@@ -4,7 +4,7 @@
 
 <!-- Кнопки связи под баннером -->
 <p align="center">
-  <a href="https://t.me/et3ha">
+  <a href="https://t.me/soulmeth">
     <img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=888888" alt="Telegram" />
   </a>
   <a href="mailto:nootwix@gmail.com">
